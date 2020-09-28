@@ -95,3 +95,7 @@ In the `cheat_sheets` [directory](https://github.com/learn-co-students/quality-d
 [viz](cheat_sheets/viz_cheat_sheet.md)
 
 [deck](cheat_sheets/deck_cheat_sheet.md)
+
+### Merging 
+
+Nice summary of steps [here](http://allendowney.github.io/amgit/conflict.html)
